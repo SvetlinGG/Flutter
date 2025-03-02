@@ -1,2 +1,2 @@
 # Flutter
-Sirna Academy
+Sirma Academy
